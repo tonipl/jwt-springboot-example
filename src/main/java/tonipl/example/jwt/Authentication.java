@@ -1,4 +1,4 @@
-package example.tonipl.jwt;
+package tonipl.example.jwt;
 
 import java.util.Date;
 
